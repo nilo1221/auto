@@ -1,0 +1,8 @@
+Lorenzo Rocchi
+
+
+
+1 beckend        realizzazione di un progetto spring-boot e architettura mvc + repo + service  
+2 frontend       realizzazione di un progetto angular + bootstrap nel quale ho inserito delle component
+3 MYSQL    query per inserimento dati; query per visualizzare dati
+4 postman-browser     per mancanza di tempo non ho potuto fare il test;  lo avrei utilizzato per fare test su endpoint
