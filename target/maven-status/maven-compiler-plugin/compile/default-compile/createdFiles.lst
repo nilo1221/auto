@@ -1,0 +1,12 @@
+com\concessionario\service\VeicoloService.class
+com\concessionario\service\VeicoloServiceImpl.class
+com\concessionario\controller\VeicoloController.class
+com\concessionario\controller\CasaAutomobilisticaController.class
+com\concessionario\model\Veicolo.class
+com\concessionario\model\CategoriaVeicolo.class
+com\concessionario\controller\CategoriaVeicoloController.class
+com\concessionario\model\CasaAutomobilistica.class
+com\concessionario\ConcessionarioApplication.class
+com\concessionario\repository\VeicoloRepository.class
+com\concessionario\repository\CategoriaVeicoloRepository.class
+com\concessionario\repository\CasaAutomobilisticaRepository.class
